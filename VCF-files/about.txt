@@ -1,0 +1,1 @@
+All vcf-files used in the analyses can be obtained by filtering this one for missing sites, LD etc.
